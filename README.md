@@ -6,7 +6,7 @@ Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn_sabina-00599C?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sabina-abdikhalikova/)](https://www.linkedin.com/in/sabina-abdikhalikova/)
 [![Telegram Badge](https://img.shields.io/badge/-@binaforjob-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/binaforjob/)](https://t.me/binaforjob)
-[![Discord Badge](https://img.shields.io/badge/-@binaforjob-5662f6?style=flat-square&logo=Discord&logoColor=white&link=https://t.me/binaforjob/)](https://t.me/binaforjob)
+[![Discord Badge](https://img.shields.io/badge/-@binaforjob-5662f6?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/bina_forjob)](https://discord.com/users/bina_forjob)
 
 
 <details>
