@@ -1,5 +1,6 @@
 ## Hi! I am Sabina,
  I'm stydying in [The Astana IT University at Kazakhstan](https://astanait.edu.kz/en/main-page/). 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=likoscp&label=Profile%20views&color=0e75b6&style=flat" alt="likoscp" /> </p>
 
 Feel free to connect with me here:
 
@@ -7,6 +8,12 @@ Feel free to connect with me here:
 [![Telegram Badge](https://img.shields.io/badge/-@binaforjob-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/binaforjob/)](https://t.me/binaforjob)
 [![Discord Badge](https://img.shields.io/badge/-@binaforjob-5662f6?style=flat-square&logo=Discord&logoColor=white&link=https://t.me/binaforjob/)](https://t.me/binaforjob)
 
+
+<details>
+  <summary><b> Github Stats</b></summary>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=likoscp&show_icons=true&locale=en) ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=likoscp&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
+</details>
 
 ## ⚡ Skills
 ### 🎮 Game development
@@ -49,7 +56,14 @@ Feel free to connect with me here:
 ## 🌱 Currently Learning 
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=Vercel)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=likoscp&show_icons=true&locale=en)
+## 💻 My PC
+🔹 Laptop: Acer Nitro 5
 
+🔹 Processor: Intel Core i7-12700H
 
+🔹 GPU: NVIDIA RTX 4060
+
+🔹 RAM: 16GB
+
+🔹 Storage: 1TB SSD
 
