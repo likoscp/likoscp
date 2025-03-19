@@ -4,10 +4,9 @@
 
 <div>
   <img src="./src/bongo-cyber.gif" width="250" align="right" style="margin-left: 15px;" />
-  <p style="font-size: 1.5em; font-weight: bold;">👨🏻‍💻 About me</p>
+  <h2>👨🏻‍💻 About me</h2>
 
   🎓 I'm studying at [Astana IT University in Kazakhstan](https://astanait.edu.kz/en/main-page/) <br>
-
   🌱 I enjoy exploring new technologies and developing software solutions<br>
   ✍️ In my free time, I write stories and draw as a hobby <br><br>
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn_sabina-00599C?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sabina-abdikhalikova/)](https://www.linkedin.com/in/sabina-abdikhalikova/)
@@ -17,7 +16,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=likoscp&label=Profile%20views&color=0e75b6&style=flat" alt="likoscp" />
 </div>
-
+<br><br>
 <details open>
   <summary><b> Github Stats</b></summary>
   <p align="center">
