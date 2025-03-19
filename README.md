@@ -5,6 +5,7 @@
 <div>
   <img src="./src/bongo-cyber.gif" width="250" align="right" style="margin-left: 15px;" />
   <p style="font-size: 1.5em; font-weight: bold;">👨🏻‍💻 About me</p>
+
   🎓 I'm studying at [Astana IT University in Kazakhstan](https://astanait.edu.kz/en/main-page/) <br>
 
   🌱 I enjoy exploring new technologies and developing software solutions<br>
@@ -29,8 +30,7 @@
 </details>
 <br>
 
-<p align="center" style="font-size: 1.5em; font-weight: bold;">⚡ Skills</p>
-<hr>
+<h2 align="center" >⚡ Skills</h2>
 
 ### 🎮 Game development
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
