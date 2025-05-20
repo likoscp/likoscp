@@ -42,6 +42,9 @@
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Go](https://img.shields.io/badge/-Go-00599C?style=flat-square&logo=Go&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=RabbitMQ)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat-square&logo=.net)
 
 ### 🗄️ Databases
